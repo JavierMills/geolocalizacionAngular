@@ -1,0 +1,12 @@
+<!-- si no esta listo el mapa va a mostrar ese loading de lo contarion mostrara el mapa en el else po
+    nemos como referencia el nombre a donde va a apuntar para cuando sea false-->
+<app-loading *ngIf="!isUserLocationReady; else mapReady"></app-loading>
+<!-- con el template le decimos que tome como 
+referencia el nombre de mapa cuando el loading este en false  -->
+<ng-template #mapReady>
+  <app-map-view></app-map-view>
+  <app-angular-logo></app-angular-logo>
+  <app-my-location></app-my-location>
+  <app-wavy></app-wavy>
+  <app-serch-bar></app-serch-bar>
+</ng-template>

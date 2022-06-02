@@ -1,0 +1,29 @@
+.imgHover {
+  width: 6rem;
+  position: absolute;
+  bottom: 500px;
+  right: 30px;
+
+   
+  }
+
+  @media(min-width: 360px) and (max-width: 768px) {
+   
+    .imgHover{
+      width: 5rem;
+      position: absolute;
+      bottom: 550px;
+      right: 30px;
+    }
+   
+  }
+
+  @media(max-width: 500px){
+   
+    .imgHover{
+      width: 4rem;
+      position: flex;
+      bottom: 800px;
+      right: 30px;
+    }
+  }
