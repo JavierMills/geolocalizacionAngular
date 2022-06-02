@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./wavy.component.css']
 })
 export class WavyComponent implements OnInit {
-   title = 'mills';
+   title = 'fer';
   constructor() { }
 
   ngOnInit(): void {
