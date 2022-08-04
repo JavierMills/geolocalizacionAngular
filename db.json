@@ -1,104 +1,98 @@
 {
-  "Bolsas_Tramite":[
-      
-  {
-      "id": 44,
-      "Solicitante": "Ramiro Javier",
-      "BolsaAnterior": 970,
-      "NombrePrograma": "",
-      "NuevaBolsa": 4,
-      "Monto": 10000000,
-      "GTIA_MXP":400000,
-      "GTIA_USD":200000,
-      "Estatus": "PENDIENTE",
-      "Fecha_Solicitud": "21/09/2022",
-      "Fecha_Vencimiento": "2/03/2030",
-      "Autorizar": "",
-      "Rechazar": "",
-      "Detalle": ""
-    },
+    "Bitacora_en_Bolsas":[
+        
     {
-      "id": 14,
-      "Solicitante": "Ramiro Javier",
-      "BolsaAnterior": 932,
-      "NombrePrograma": "",
-      "NuevaBolsa": 4,
-      "Monto": 200000,
-      "GTIA_MXP":50000,
-      "GTIA_USD":400000,
-      "Estatus": "PENDIENTE",
-      "Fecha_Solicitud": "21/09/2022",
-      "Fecha_Vencimiento": "2/03/2030",
-      "Autorizar": "",
-      "Rechazar": "",
-      "Detalle": ""
-    },
-    {
-      "id": 74,
-      "Solicitante": "Ramiro Javier",
-      "BolsaAnterior": 870,
-      "NombrePrograma": "",
-      "NuevaBolsa": 4,
-      "Monto": 4000000,
-      "GTIA_MXP":400000,
-      "GTIA_USD":900000,
-      "Estatus": "PENDIENTE",
-      "Fecha_Solicitud": "21/09/2022",
-      "Fecha_Vencimiento": "2/03/2030",
-      "Autorizar": "",
-      "Rechazar": "",
-      "Detalle": ""
-    },
-    {
-      "id": 4,
-      "Solicitante": "Ramiro Javier",
-      "BolsaAnterior": 910,
-      "NombrePrograma": "",
-      "NuevaBolsa": 4,
-      "Monto": 4000000,
-      "GTIA_MXP":400000,
-      "GTIA_USD":800000,
-      "Estatus": "PENDIENTE",
-      "Fecha_Solicitud": "21/09/2022",
-      "Fecha_Vencimiento": "2/03/2030",
-      "Autorizar": "",
-      "Rechazar": "",
-      "Detalle": ""
-    },
-    {
-      "id": 1,
-      "Solicitante": "Ramiro Javier",
-      "BolsaAnterior": 970,
-      "NombrePrograma": "",
-      "NuevaBolsa": 4,
-      "Monto": 10000000,
-      "GTIA_MXP":400000,
-      "GTIA_USD":200000,
-      "Estatus": "PENDIENTE",
-      "Fecha_Solicitud": "21/09/2022",
-      "Fecha_Vencimiento": "2/03/2030",
-      "Autorizar": "",
-      "Rechazar": "",
-      "Detalle": ""
-    },
-    {
-      "id": 445,
-      "Solicitante": "Ramiro Javier",
-      "BolsaAnterior": 970,
-      "NombrePrograma": "",
-      "NuevaBolsa": 4,
-      "Monto": 10000000,
-      "GTIA_MXP":400000,
-      "GTIA_USD":200000,
-      "Estatus": "PENDIENTE",
-      "Fecha_Solicitud": "21/09/2022",
-      "Fecha_Vencimiento": "2/03/2030",
-      "Autorizar": "",
-      "Rechazar": "",
-      "Detalle": ""
-    }
-           
- 
+        "Folio Solicitud": 44,
+        "Solicito": "Ramiro Javier",
+        "Estatus": "PENDIENTE",
+        "Bolsa_Anterior": 96433,
+        "NuevaBolsa": 6533,
+        "Monto_Nueva_Bolsa":99333400,
+        "Programa":"PYME Comex",
+        "Etiqueta_Asignada":"BX04",
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 900222,
+        "Garantia_ALTAIR_Dolares": 984432,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      },
+      {
+        "Folio Solicitud": 44,
+        "Solicito": "Ramiro",
+        "Estatus": "AUTORIZADO",
+        "Bolsa_Anterior": 5000,
+        "NuevaBolsa": 5900,
+        "Monto_Nueva_Bolsa":1700543,
+        "Programa":"GRANDES EMPRESAS",
+        "Etiqueta_Asignada":"BX09",
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 900222,
+        "Garantia_ALTAIR_Dolares": 984432,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      },
+      {
+        "Folio Solicitud": 44,
+        "Solicito": "Ramiro Javier",
+        "Estatus": "PENDIENTE",
+        "Bolsa_Anterior": 96433,
+        "NuevaBolsa": 6533,
+        "Monto_Nueva_Bolsa":99333400,
+        "Programa":"PYME Comex",
+        "Etiqueta_Asignada":200000,
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 900222,
+        "Garantia_ALTAIR_Dolares": 984432,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      },
+      {
+        "Folio Solicitud": 44,
+        "Solicito": "Ramiro",
+        "Estatus": "AUTORIZADO",
+        "Bolsa_Anterior": 5000,
+        "NuevaBolsa": 5900,
+        "Monto_Nueva_Bolsa":1700543,
+        "Programa":"GRANDES EMPRESAS",
+        "Etiqueta_Asignada":"BX09",
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 900222,
+        "Garantia_ALTAIR_Dolares": 984432,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      },
+      {
+        "Folio Solicitud": 44,
+        "Solicito": "Ramiro Javier",
+        "Estatus": "PENDIENTE",
+        "Bolsa_Anterior": 96433,
+        "NuevaBolsa": 6533,
+        "Monto_Nueva_Bolsa":99333400,
+        "Programa":"PYME Comex",
+        "Etiqueta_Asignada":200000,
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 900222,
+        "Garantia_ALTAIR_Dolares": 984432,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      },
+      {
+        "Folio Solicitud": 44,
+        "Solicito": "Ramiro Javier",
+        "Estatus": "PENDIENTE",
+        "Bolsa_Anterior": 96433,
+        "NuevaBolsa": 6533,
+        "Monto_Nueva_Bolsa":99333400,
+        "Programa":"PYME Comex",
+        "Etiqueta_Asignada":200000,
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 900222,
+        "Garantia_ALTAIR_Dolares": 984432,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      }
+       
+   
 ]
-  
+    
 }
