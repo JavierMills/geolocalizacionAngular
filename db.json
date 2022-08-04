@@ -2,11 +2,11 @@
     "Bitacora_en_Bolsas":[
         
     {
-        "Folio Solicitud": 44,
+        "Folio_Solicitud": 44,
         "Solicito": "Ramiro Javier",
         "Estatus": "PENDIENTE",
         "Bolsa_Anterior": 96433,
-        "NuevaBolsa": 6533,
+        "Nueva_Bolsa": 6533,
         "Monto_Nueva_Bolsa":99333400,
         "Programa":"PYME Comex",
         "Etiqueta_Asignada":"BX04",
@@ -17,7 +17,7 @@
         "Detalle": ""
       },
       {
-        "Folio Solicitud": 44,
+        "Folio_Solicitud": 44,
         "Solicito": "Ramiro",
         "Estatus": "AUTORIZADO",
         "Bolsa_Anterior": 5000,
@@ -32,7 +32,7 @@
         "Detalle": ""
       },
       {
-        "Folio Solicitud": 44,
+        "Folio_Solicitud": 44,
         "Solicito": "Ramiro Javier",
         "Estatus": "PENDIENTE",
         "Bolsa_Anterior": 96433,
@@ -47,7 +47,7 @@
         "Detalle": ""
       },
       {
-        "Folio Solicitud": 44,
+        "Folio_Solicitud": 44,
         "Solicito": "Ramiro",
         "Estatus": "AUTORIZADO",
         "Bolsa_Anterior": 5000,
@@ -62,7 +62,7 @@
         "Detalle": ""
       },
       {
-        "Folio Solicitud": 44,
+        "Folio_Solicitud": 44,
         "Solicito": "Ramiro Javier",
         "Estatus": "PENDIENTE",
         "Bolsa_Anterior": 96433,
@@ -77,7 +77,7 @@
         "Detalle": ""
       },
       {
-        "Folio Solicitud": 44,
+        "Folio_Solicitud": 44,
         "Solicito": "Ramiro Javier",
         "Estatus": "PENDIENTE",
         "Bolsa_Anterior": 96433,
