@@ -14,7 +14,12 @@
         "Garantia_ALTAIR_Pesos": 900222,
         "Garantia_ALTAIR_Dolares": 984432,
         "Fecha_Solicitud": "2019-05-03 12:51:08",
-        "Detalle": ""
+        "Detalle": "",
+        "Porcentaje": ".9",
+        "Comision": "20",
+        "Sectores": "SERVICIOS,COMERCIO,INDUSTRIA",
+        "Fecha_Vencimiento": "2020-12-30"
+      
       },
       {
         "Folio_Solicitud": 2,
@@ -29,7 +34,11 @@
         "Garantia_ALTAIR_Pesos": 900222,
         "Garantia_ALTAIR_Dolares": 984432,
         "Fecha_Solicitud": "2019-05-03 12:51:08",
-        "Detalle": ""
+        "Detalle": "",
+        "Porcentaje": ".4",
+        "Comision": "18",
+        "Sectores": "SERVICIOS,COMERCIO,INDUSTRIA",
+        "Fecha_Vencimiento": "2020-12-23"
       },
       {
         "Folio_Solicitud": 3,
@@ -44,7 +53,12 @@
         "Garantia_ALTAIR_Pesos": 900222,
         "Garantia_ALTAIR_Dolares": 984432,
         "Fecha_Solicitud": "2019-05-03 12:51:08",
-        "Detalle": ""
+        "Detalle": "",
+        "Porcentaje": ".3",
+        "Comision": "20",
+        "Sectores": "SERVICIOS,COMERCIO,INDUSTRIA",
+        "Fecha_Vencimiento": "2020-12-03"
+        
       },
       {
         "Folio_Solicitud": 4,
@@ -59,7 +73,12 @@
         "Garantia_ALTAIR_Pesos": 900222,
         "Garantia_ALTAIR_Dolares": 984432,
         "Fecha_Solicitud": "2019-05-03 12:51:08",
-        "Detalle": ""
+        "Detalle": "",
+        "Porcentaje": ".6",
+        "Comision": "12",
+        "Sectores": "SERVICIOS,COMERCIO,INDUSTRIA",
+        "Fecha_Vencimiento": "2020-01-23"
+        
       },
       {
         "Folio_Solicitud": 5,
@@ -74,7 +93,11 @@
         "Garantia_ALTAIR_Pesos": 900222,
         "Garantia_ALTAIR_Dolares": 984432,
         "Fecha_Solicitud": "2019-05-03 12:51:08",
-        "Detalle": ""
+        "Detalle": "",
+        "Porcentaje": ".4",
+        "Comision": "20",
+        "Sectores": "SERVICIOS,COMERCIO,INDUSTRIA",
+        "Fecha_Vencimiento": "2020-12-13"
       },
       {
         "Folio_Solicitud": 6,
@@ -89,7 +112,12 @@
         "Garantia_ALTAIR_Pesos": 900222,
         "Garantia_ALTAIR_Dolares": 984432,
         "Fecha_Solicitud": "2019-05-03 12:51:08",
-        "Detalle": ""
+        "Detalle": "",
+        "Porcentaje": ".8",
+        "Comision": "20",
+        "Sectores": "SERVICIOS,COMERCIO,INDUSTRIA",
+        "Fecha_Vencimiento": "2020-12-11"
+        
       }
        
    
